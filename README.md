@@ -2,7 +2,7 @@
   <img src='https://i.ibb.co/KpY6qKdY/giphy.gif'/>
 </div>
 
-<div align='center' id="badges">
+<div align='center'>
   <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram" alt="Telegram badge"/>
 </div>
 
@@ -15,4 +15,11 @@
     nice to c u overhere
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+</div>
+
+## Here some tools that i use:
+
+<div>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg'/>
 </div>
