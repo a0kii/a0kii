@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=a0kii&style=flat-square&color=blue" alt="Profile viewers badge"/>
 </div>
 
-<h1>
-  nice to c u overhere
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align='center'>
+  <h1>
+    nice to c u overhere
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
