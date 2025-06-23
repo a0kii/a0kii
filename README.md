@@ -2,7 +2,7 @@
   <img src='https://i.ibb.co/KpY6qKdY/giphy.gif'/>
 </div>
 
-<div id="badges">
+<div align='center' id="badges">
   <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram" alt="Telegram badge"/>
 </div>
 
