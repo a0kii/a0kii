@@ -10,7 +10,7 @@
 
 <div align='center'>
   <h1>
-    nice to c u overhere
+    nice 2 c u here
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
