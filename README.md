@@ -22,4 +22,5 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='60' height='60'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' width='60' height='60'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' width='60' height='60'/>
+  <img src='https://www.reshot.com/preview-assets/icons/X3SZAJD5K2/brain-X3SZAJD5K2.svg' width='60' height='60'/>
 </div>
