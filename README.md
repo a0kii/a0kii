@@ -15,7 +15,7 @@
   </h1>
 </div>
 
-### here some tools that im using
+### my tech stack
 
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg' width='60' height='60'/>
