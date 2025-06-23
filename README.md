@@ -7,7 +7,7 @@
 </div>
 
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=a0kii&style=flat-square&color=blue" alt="Profile viewers badge"/>
+  <img src="https://komarev.com/ghpvc/?username=a0kii&style=for-the-badge&color=black" alt="Profile viewers badge"/>
 </div>
 
 <div align='center'>
