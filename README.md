@@ -17,11 +17,10 @@
   </h1>
 </div>
 
----
-
 ### here some tools that im using
 
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg' width='60' height='60'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' width='60' height='60'/>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' width='60' height='60'/>
 </div>
