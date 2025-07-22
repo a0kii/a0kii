@@ -12,6 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=a0kii&show_icons=true&theme=radical"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=a0kii&theme=dracula"/>
+</div>
+
+
 <div align='center'>
   <h1>
     nice 2 c u here
