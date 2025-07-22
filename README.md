@@ -15,6 +15,10 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a0kii&show_icons=true&theme=radical"/>
+</div>
+
 ### my tech stack
 
 <div>
