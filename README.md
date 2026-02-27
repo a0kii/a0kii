@@ -8,12 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=a0kii&style=for-the-badge&color=blue" alt="Profile viewers badge"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a0kii&show_icons=true&theme=radical"/>
-</div>
-
-
-
 <div align='center'>
   <h1>
     nice 2 c u here
