@@ -19,11 +19,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### github stats
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=a0kii&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a0kii&hide_border=true"/>
-</div>
